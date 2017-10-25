@@ -11,6 +11,8 @@ namespace third_1
         static void Main(string[] args)
         {
             //kolmas
+            //kolmas
+
         }
     }
 }

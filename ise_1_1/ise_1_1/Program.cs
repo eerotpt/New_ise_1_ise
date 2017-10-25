@@ -14,7 +14,7 @@ namespace ise_1_1
             Console.WriteLine("Tere");
             Console.WriteLine("1");
             Console.WriteLine("");
-
+            //muutus
             Console.WriteLine("2");
             Console.WriteLine("Tere");
 
